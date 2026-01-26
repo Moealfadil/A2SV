@@ -24,6 +24,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Math
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 | [2413-smallest-even-multiple](https://github.com/Moealfadil/A2SV/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -33,4 +34,8 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
