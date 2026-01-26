@@ -29,4 +29,8 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Moealfadil/A2SV/tree/master/2413-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
