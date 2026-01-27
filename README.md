@@ -35,6 +35,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
