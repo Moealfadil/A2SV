@@ -25,6 +25,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 | [2413-smallest-even-multiple](https://github.com/Moealfadil/A2SV/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -36,11 +37,13 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 ## Array
 |  |
