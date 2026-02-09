@@ -39,6 +39,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -56,6 +57,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -76,6 +78,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
