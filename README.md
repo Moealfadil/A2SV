@@ -40,6 +40,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Moealfadil/A2SV/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moealfadil/A2SV/tree/master/1929-concatenation-of-array) |
