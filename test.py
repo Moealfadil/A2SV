@@ -1,4 +1,4 @@
-nums=[1,2]
+nums=["a","b","c","d"]
 
-list1=nums + nums
-print(list1)
+word="".join(nums)
+print(word)
