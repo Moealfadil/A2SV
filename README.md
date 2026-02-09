@@ -47,6 +47,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Moealfadil/A2SV/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1929-concatenation-of-array](https://github.com/Moealfadil/A2SV/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Trie
