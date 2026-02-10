@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: None Do not return anything, modify s in-place instead.
         """
 
-        string1=s.reverse()
-        return string1
+        return s.reverse()
 
         
