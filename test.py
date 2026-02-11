@@ -1,18 +1,13 @@
 class Solution(object):
-    def findWords(self, words):
+    def findDuplicates(self, nums):
         """
-        :type words: List[str]
-        :rtype: List[str]
+        :type nums: List[int]
+        :rtype: List[int]
         """
-        rows=["qwertyuiop","asdfghjkl","zxcvbnm"]
-        ans=[]
-        for word in words:
-            word=word.lower()
-            for row in rows:
-                if word[0] in row:
-                    for char in word:
-                        if char not in row:
-                            break
-                    else:
-                        ans.append(word)
-        return ans
+        dic={}
+        for num in nums:
+            if num in dic:
+                dic[num]+=1
+            else:
+                dic[num]=1
+        return [x for x in dic if dic[x]==2]
