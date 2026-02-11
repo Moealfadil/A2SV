@@ -38,9 +38,11 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -64,7 +66,9 @@ A collection of coding problem solutions from various competitive programming pl
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -90,8 +94,11 @@ A collection of coding problem solutions from various competitive programming pl
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -115,7 +122,9 @@ A collection of coding problem solutions from various competitive programming pl
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
