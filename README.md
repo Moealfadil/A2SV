@@ -26,6 +26,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
+| [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/Moealfadil/A2SV/tree/master/2413-smallest-even-multiple) |
@@ -70,6 +71,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
