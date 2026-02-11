@@ -12,4 +12,3 @@ class Solution:
                     elif i+j == least_index:
                         common_string.append(list1[i])
         return common_string
-        
