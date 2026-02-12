@@ -71,6 +71,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
@@ -165,4 +166,8 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
