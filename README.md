@@ -55,6 +55,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Moealfadil/A2SV/tree/master/1920-build-array-from-permutation) |
@@ -76,6 +77,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
+| [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
@@ -174,4 +176,5 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
+| [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
