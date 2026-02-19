@@ -1,13 +1,14 @@
-class Solution(object):
-    def findDuplicates(self, nums):
+def rotate( matrix):
         """
-        :type nums: List[int]
-        :rtype: List[int]
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        dic={}
-        for num in nums:
-            if num in dic:
-                dic[num]+=1
-            else:
-                dic[num]=1
-        return [x for x in dic if dic[x]==2]
+        result= [row[:] for row in matrix]
+        n=len(matrix)
+        for i in range(len(matrix)):
+            for j in range(len(matrix)):
+                result[j][(n-1)-i]=matrix[i][j]
+        matrix[:]=result
+        print(matrix)
+
+print(rotate([[1,2,3],[4,5,6],[7,8,9]]))
