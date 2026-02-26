@@ -72,6 +72,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moealfadil/A2SV/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
@@ -169,6 +171,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 ## Recursion
