@@ -1,14 +1,10 @@
-def rotate( matrix):
+class Solution(object):
+    def sortColors(self, nums):
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
         """
-        result= [row[:] for row in matrix]
-        n=len(matrix)
-        for i in range(len(matrix)):
-            for j in range(len(matrix)):
-                result[j][(n-1)-i]=matrix[i][j]
-        matrix[:]=result
-        print(matrix)
-
-print(rotate([[1,2,3],[4,5,6],[7,8,9]]))
+        count=0
+        
+        return nums
+print(Solution().sortColors([2,0,2,1,1,0]))
