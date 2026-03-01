@@ -4,28 +4,15 @@ for test in range(tests):
     n=int(n)
     m=int(m)
     arr=list(map(int,input().split()))
-    arr.sort()
+    maxx=max(arr)
     result=[]
     for i in range(m):
         opperation, lower, upper=input().split()
         lower=int(lower)
         upper=int(upper)
-        if lower> max(arr) or upper<min(arr):
-            result.append(max(arr))
-        else:
-            if opperation=="+":
-                for j in range(n):
-                    if arr[j]>upper:
-                        break
-                    else:
-                        if arr[j]>=lower and arr[j]<=upper:
-                            arr[j]+=1
-            else:
-                for j in range(n):
-                    if arr[j]>upper:
-                        break
-                    else:
-                        if arr[j]>=lower and arr[j]<=upper:
-                            arr[j]-=1
-            result.append(arr[-1])
+        if opperation=="+" and lower<=maxx<=upper:
+            maxx+=1
+        elif opperation=="-" and lower<=maxx<=upper:
+            maxx-=1
+        result.append(maxx)
     print(" ".join(map(str,result)))
