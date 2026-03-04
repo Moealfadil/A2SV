@@ -74,10 +74,12 @@ A collection of coding problem solutions from various competitive programming pl
 | [0054-spiral-matrix](https://github.com/Moealfadil/A2SV/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -86,6 +88,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
+| [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
@@ -132,6 +135,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -148,6 +152,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -172,8 +177,11 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
+| [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +194,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
+| [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
