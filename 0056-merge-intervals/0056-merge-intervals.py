@@ -3,13 +3,20 @@ class Solution:
         i=0
         j=1
         intervals.sort()
-        n=len(intervals)
-        while j<n:
-            if intervals[i][1]>=intervals[j][0]:
+        n=len(intervals)-1
+        result=[]
+        last= False
+        while j<=n:
+            if intervals[i][1]>=intervals[j][0] and j==n:
                 intervals[i][1]=max(intervals[i][1],intervals[j][1])
-                intervals.pop(j)
-                n-=1
+                result.append(intervals[i])
+                last=True
+            elif intervals[i][1]>=intervals[j][0]:
+                intervals[i][1]=max(intervals[i][1],intervals[j][1])
             else:
-                i+=1
-                j+=1
-        return intervals
+                result.append(intervals[i])
+                i=j
+            j+=1
+        if not last:
+            result.append(intervals[j-1])
+        return result
