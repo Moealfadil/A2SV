@@ -73,6 +73,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moealfadil/A2SV/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -149,6 +150,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
