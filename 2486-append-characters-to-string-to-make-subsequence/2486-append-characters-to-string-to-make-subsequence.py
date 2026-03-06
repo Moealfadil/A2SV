@@ -12,9 +12,6 @@ class Solution(object):
                 i+=1
                 j+=1
             else:j+=1
-        if i==len(t):
-            return 0
-        else:
-            return len(t)-i
+        return len(t)-i
 
         
