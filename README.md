@@ -88,6 +88,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
@@ -169,6 +170,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,6 +239,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 ## Game Theory
 |  |
