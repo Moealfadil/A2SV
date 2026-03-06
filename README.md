@@ -83,6 +83,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -162,6 +163,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
