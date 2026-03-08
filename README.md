@@ -29,7 +29,9 @@ A collection of coding problem solutions from various competitive programming pl
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Moealfadil/A2SV/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2413-smallest-even-multiple](https://github.com/Moealfadil/A2SV/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -43,6 +45,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
@@ -52,6 +55,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +76,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Moealfadil/A2SV/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,8 +85,10 @@ A collection of coding problem solutions from various competitive programming pl
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
@@ -90,15 +97,20 @@ A collection of coding problem solutions from various competitive programming pl
 | [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Moealfadil/A2SV/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Moealfadil/A2SV/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Moealfadil/A2SV/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moealfadil/A2SV/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
@@ -120,10 +132,12 @@ A collection of coding problem solutions from various competitive programming pl
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -137,6 +151,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,16 +160,26 @@ A collection of coding problem solutions from various competitive programming pl
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
+| [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Moealfadil/A2SV/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Moealfadil/A2SV/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Moealfadil/A2SV/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 ## Counting
@@ -162,6 +187,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
@@ -171,6 +197,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
@@ -182,6 +209,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -195,7 +223,9 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -208,5 +238,15 @@ A collection of coding problem solutions from various competitive programming pl
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
