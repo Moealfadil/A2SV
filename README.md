@@ -115,6 +115,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 ## Trie
 |  |
@@ -183,6 +184,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Moealfadil/A2SV/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 ## Counting
 |  |
@@ -213,6 +215,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
@@ -230,6 +233,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |
