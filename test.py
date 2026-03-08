@@ -1,10 +1,12 @@
+from collections import Counter
 class Solution(object):
-    def sortColors(self, nums):
+    def frequencySort(self, s):
         """
-        :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
+        :type s: str
+        :rtype: str
         """
-        count=0
-        
-        return nums
-print(Solution().sortColors([2,0,2,1,1,0]))
+        counter = Counter(s)
+        result = sorted(s, key=lambda x: (counter[x], x), reverse=True)
+        return "".join(result)
+
+print(Solution().frequencySort("loveleetcode"))
