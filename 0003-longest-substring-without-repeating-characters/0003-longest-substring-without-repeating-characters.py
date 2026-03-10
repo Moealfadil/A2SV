@@ -6,11 +6,10 @@ class Solution:
         i=0
         j=0
         while j<n:
-            if s[j] not in unique:
-                unique.add(s[j])
-                j+=1
-            else:
+            while s[j] in unique:
                 unique.remove(s[i])
                 i+=1
+            unique.add(s[j])
+            j+=1
             length=max(len(unique), length)
         return length
