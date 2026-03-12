@@ -82,6 +82,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0054-spiral-matrix](https://github.com/Moealfadil/A2SV/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
@@ -217,6 +219,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0011-container-with-most-water](https://github.com/Moealfadil/A2SV/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
