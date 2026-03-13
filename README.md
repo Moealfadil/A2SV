@@ -103,6 +103,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
+| [1089-duplicate-zeros](https://github.com/Moealfadil/A2SV/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
@@ -229,6 +230,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0443-string-compression](https://github.com/Moealfadil/A2SV/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
+| [1089-duplicate-zeros](https://github.com/Moealfadil/A2SV/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Moealfadil/A2SV/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
