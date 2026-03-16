@@ -5,10 +5,20 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        count=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j]<target:
-                    count+=1
-        return count
+        nums.sort()
+        total=0
+        i=0
+        j=0
+        while j<len(nums) and (nums[i]+nums[j])<target :
+                j+=1
+        j-=1
+        while i<j:
+            if nums[i]+nums[j]<target:
+                total+= j-i
+                i+=1
+            else:
+                j-=1
+        return total
+        
+            
         
