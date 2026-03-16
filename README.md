@@ -127,6 +127,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
