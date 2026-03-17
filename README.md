@@ -109,6 +109,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1089-duplicate-zeros](https://github.com/Moealfadil/A2SV/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Moealfadil/A2SV/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Moealfadil/A2SV/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -162,6 +163,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Moealfadil/A2SV/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
