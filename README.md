@@ -59,6 +59,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Moealfadil/A2SV/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
@@ -161,6 +162,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1679-max-number-of-k-sum-pairs](https://github.com/Moealfadil/A2SV/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Moealfadil/A2SV/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
