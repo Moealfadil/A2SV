@@ -3,22 +3,22 @@ for test in range(tests):
     n = int(input())
     a = list(map(int, input().split()))
     a.sort()
-    elite = []
-    coward=[a[0]]
+    elite = 0
+    crowd=0
+    crowdpower=a[0]
+    elitepower=0
     possible = False
     i=n-1
     j=1
     check=1
-    while check < n:
-        elite.append(a[i])
-        coward.append(a[j])
+    while j < i:
+        elite+=1
+        crowd+=1
+        crowdpower += a[j]
+        elitepower += a[i]
         i-=1
         j+=1
-        if n%2==0:
-            check = len(elite)+len(coward)+1
-        else:
-            check = len(elite)+len(coward)
-        if sum(elite) > sum(coward):
+        if elitepower > crowdpower:
             possible = True
             break
     if possible:

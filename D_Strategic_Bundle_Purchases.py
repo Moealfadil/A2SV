@@ -11,10 +11,12 @@ for test in range(tests):
     while n>=0 and m>=0:
         if k[m] > len(a[:n+1]):
             break
-        for i in range(k[m]):
+        for i in range(1,k[m]):
             count+=a[n]
             n-=1
-        count-=a[n+1]
-        m-=1
+        n-=1
+        m-=1 
     count+=sum(a[:n+1])
     print(count)
+
+    
