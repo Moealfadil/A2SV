@@ -4,14 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        s=list(s)
-        i=0
-        while i<len(s):
-            if not s[i].isalnum():
-                s.pop(i)
-            else:
-                i+=1
-        s = ''.join(c for c in s)
+        s = ''.join(x for x in s if x.isalnum())
         s = s.lower()
         return s == s[::-1]
         
