@@ -132,6 +132,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -169,6 +170,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Moealfadil/A2SV/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -310,6 +312,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Moealfadil/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Moealfadil/A2SV/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sweep Line
 |  |
 | ------- |
