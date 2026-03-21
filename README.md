@@ -57,6 +57,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0796-rotate-string](https://github.com/Moealfadil/A2SV/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Moealfadil/A2SV/tree/master/1002-find-common-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moealfadil/A2SV/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Moealfadil/A2SV/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -321,6 +322,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0643-maximum-average-subarray-i](https://github.com/Moealfadil/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Moealfadil/A2SV/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moealfadil/A2SV/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sweep Line
 |  |
