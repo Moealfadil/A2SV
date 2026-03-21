@@ -117,6 +117,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1089-duplicate-zeros](https://github.com/Moealfadil/A2SV/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Moealfadil/A2SV/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Moealfadil/A2SV/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Moealfadil/A2SV/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Moealfadil/A2SV/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -179,6 +180,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Moealfadil/A2SV/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Moealfadil/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
@@ -318,6 +320,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Moealfadil/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Moealfadil/A2SV/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sweep Line
 |  |
