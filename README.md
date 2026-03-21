@@ -44,6 +44,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moealfadil/A2SV/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
@@ -150,6 +151,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0001-two-sum](https://github.com/Moealfadil/A2SV/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
@@ -312,6 +314,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Moealfadil/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Moealfadil/A2SV/tree/master/0904-fruit-into-baskets) |
