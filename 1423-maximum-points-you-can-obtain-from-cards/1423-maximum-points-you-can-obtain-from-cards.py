@@ -5,6 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        if k >= len(cardPoints):
+            return sum(cardPoints)
         prefix=[0]*(len(cardPoints)+1)
         for i in range(1,len(cardPoints)+1):
            prefix[i] =cardPoints[i-1]+ prefix[i-1]
