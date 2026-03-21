@@ -139,6 +139,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
@@ -179,6 +180,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moealfadil/A2SV/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Sweep Line
 |  |
 | ------- |
