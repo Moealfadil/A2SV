@@ -137,6 +137,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Moealfadil/A2SV/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Moealfadil/A2SV/tree/master/2090-k-radius-subarray-averages) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Moealfadil/A2SV/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -337,6 +338,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Moealfadil/A2SV/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Moealfadil/A2SV/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/Moealfadil/A2SV/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Sweep Line
