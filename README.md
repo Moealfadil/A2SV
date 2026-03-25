@@ -101,6 +101,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
@@ -191,6 +192,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Moealfadil/A2SV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Moealfadil/A2SV/tree/master/1480-running-sum-of-1d-array) |
@@ -351,4 +353,8 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0978-longest-turbulent-subarray](https://github.com/Moealfadil/A2SV/tree/master/0978-longest-turbulent-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
