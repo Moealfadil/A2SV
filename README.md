@@ -28,6 +28,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [1518-water-bottles](https://github.com/Moealfadil/A2SV/tree/master/1518-water-bottles) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Moealfadil/A2SV/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -213,6 +214,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -288,6 +290,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0443-string-compression](https://github.com/Moealfadil/A2SV/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Moealfadil/A2SV/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Moealfadil/A2SV/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Moealfadil/A2SV/tree/master/0969-pancake-sorting) |
