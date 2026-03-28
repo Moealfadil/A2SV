@@ -68,6 +68,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moealfadil/A2SV/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/Moealfadil/A2SV/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moealfadil/A2SV/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moealfadil/A2SV/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moealfadil/A2SV/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Sweep Line
 |  |
 | ------- |
