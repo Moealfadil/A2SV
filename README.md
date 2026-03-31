@@ -308,6 +308,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -382,4 +383,8 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
