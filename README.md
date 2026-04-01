@@ -282,6 +282,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0011-container-with-most-water](https://github.com/Moealfadil/A2SV/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Moealfadil/A2SV/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Moealfadil/A2SV/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Moealfadil/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Moealfadil/A2SV/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
@@ -386,5 +387,6 @@ A collection of coding problem solutions from various competitive programming pl
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Moealfadil/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
