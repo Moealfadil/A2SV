@@ -174,6 +174,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
@@ -389,6 +390,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
@@ -397,6 +399,11 @@ A collection of coding problem solutions from various competitive programming pl
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Moealfadil/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Moealfadil/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0876-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
