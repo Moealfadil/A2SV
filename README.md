@@ -24,6 +24,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moealfadil/A2SV/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
@@ -315,6 +316,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moealfadil/A2SV/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Moealfadil/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0206-reverse-linked-list) |
@@ -397,6 +399,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Moealfadil/A2SV/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Moealfadil/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Moealfadil/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
