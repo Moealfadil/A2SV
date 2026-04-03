@@ -402,6 +402,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0002-add-two-numbers](https://github.com/Moealfadil/A2SV/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Moealfadil/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Moealfadil/A2SV/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Moealfadil/A2SV/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
