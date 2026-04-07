@@ -71,6 +71,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Moealfadil/A2SV/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Moealfadil/A2SV/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/Moealfadil/A2SV/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moealfadil/A2SV/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Simulation
@@ -85,6 +86,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1920-build-array-from-permutation](https://github.com/Moealfadil/A2SV/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Moealfadil/A2SV/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Moealfadil/A2SV/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
 ## Array
 |  |
@@ -432,4 +434,5 @@ A collection of coding problem solutions from various competitive programming pl
 | [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
