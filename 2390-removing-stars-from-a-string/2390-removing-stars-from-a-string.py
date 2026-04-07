@@ -4,7 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        s=list(s)
         i=0
         result=[]
         while i<len(s):
