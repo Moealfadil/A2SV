@@ -45,6 +45,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moealfadil/A2SV/tree/master/0125-valid-palindrome) |
@@ -428,6 +429,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
