@@ -15,12 +15,10 @@ class Solution:
         dic = {}
         current = head
 
-        # Step 1: Create all nodes
         while current:
             dic[current] = Node(current.val)
             current = current.next
 
-        # Step 2: Connect next and random
         current = head
         while current:
             dic[current].next = dic.get(current.next)
