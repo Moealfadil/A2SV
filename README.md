@@ -333,6 +333,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -405,6 +406,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -435,4 +437,8 @@ A collection of coding problem solutions from various competitive programming pl
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
