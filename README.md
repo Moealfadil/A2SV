@@ -179,6 +179,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0001-two-sum](https://github.com/Moealfadil/A2SV/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Moealfadil/A2SV/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
@@ -424,6 +425,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Moealfadil/A2SV/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Moealfadil/A2SV/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Moealfadil/A2SV/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Moealfadil/A2SV/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Moealfadil/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Moealfadil/A2SV/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
