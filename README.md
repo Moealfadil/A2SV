@@ -205,6 +205,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Moealfadil/A2SV/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Moealfadil/A2SV/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Moealfadil/A2SV/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
@@ -274,6 +275,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moealfadil/A2SV/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Moealfadil/A2SV/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -441,4 +445,5 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
