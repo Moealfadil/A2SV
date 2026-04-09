@@ -4,8 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        for char in range(len(s)):
-            if s.count(s[char]) ==1:
-                return char
-        return -1
+        que=deque()
+        dic=defaultdict()
+        for i in range(len(s)):
+            dic[s[i]]=dic.get(s[i],0)+1
+            while que and dic[s[que[0]]]>1:
+                que.popleft()
+            que.append(i)
+        if dic[s[que[0]]]>1:
+            return -1
+        else:
+            return que[0]
         
