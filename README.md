@@ -111,6 +111,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Moealfadil/A2SV/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Moealfadil/A2SV/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Moealfadil/A2SV/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
@@ -344,6 +345,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Moealfadil/A2SV/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moealfadil/A2SV/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -376,6 +378,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Moealfadil/A2SV/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moealfadil/A2SV/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -393,6 +396,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moealfadil/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Moealfadil/A2SV/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moealfadil/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Moealfadil/A2SV/tree/master/0567-permutation-in-string) |
@@ -475,5 +479,6 @@ A collection of coding problem solutions from various competitive programming pl
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Moealfadil/A2SV/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moealfadil/A2SV/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
