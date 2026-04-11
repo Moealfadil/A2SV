@@ -124,6 +124,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Moealfadil/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -467,6 +468,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Moealfadil/A2SV/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -480,6 +482,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
