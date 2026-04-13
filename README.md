@@ -439,6 +439,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0641-design-circular-deque](https://github.com/Moealfadil/A2SV/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/Moealfadil/A2SV/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -477,12 +478,14 @@ A collection of coding problem solutions from various competitive programming pl
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Moealfadil/A2SV/tree/master/0901-online-stock-span) |
 | [1598-crawler-log-folder](https://github.com/Moealfadil/A2SV/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Moealfadil/A2SV/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
@@ -491,6 +494,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Moealfadil/A2SV/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
