@@ -27,6 +27,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0002-add-two-numbers](https://github.com/Moealfadil/A2SV/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Moealfadil/A2SV/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
@@ -109,6 +110,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moealfadil/A2SV/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Moealfadil/A2SV/tree/master/0217-contains-duplicate) |
@@ -466,6 +468,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
