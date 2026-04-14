@@ -29,6 +29,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
@@ -250,6 +251,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
@@ -351,6 +353,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
