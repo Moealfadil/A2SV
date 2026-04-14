@@ -111,6 +111,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0056-merge-intervals](https://github.com/Moealfadil/A2SV/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Moealfadil/A2SV/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Moealfadil/A2SV/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Moealfadil/A2SV/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -436,6 +437,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Moealfadil/A2SV/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Moealfadil/A2SV/tree/master/0978-longest-turbulent-subarray) |
 ## Design
