@@ -11,4 +11,3 @@ class Solution(object):
             i=(i+k-1)%len(list1)
             list1.pop(i)
         return list1[0] 
-        
