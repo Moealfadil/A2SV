@@ -7,7 +7,11 @@ class Solution(object):
         """
         list1=list(range(1,n+1))
         i=0
-        while len(list1)>1:
-            i=(i+k-1)%len(list1)
+        def eliminate(list,k,i):
+            if len(list)==1:
+                return list[0] 
+            i=(i+k-1)%len(list)
             list1.pop(i)
-        return list1[0] 
+            return eliminate(list,k,i)
+        return eliminate(list1,k,i)
+        
