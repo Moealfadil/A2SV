@@ -28,6 +28,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0013-roman-to-integer](https://github.com/Moealfadil/A2SV/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Moealfadil/A2SV/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Moealfadil/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
@@ -57,6 +58,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moealfadil/A2SV/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0387-first-unique-character-in-a-string) |
@@ -362,6 +364,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0203-remove-linked-list-elements](https://github.com/Moealfadil/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Moealfadil/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
@@ -449,6 +452,7 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0118-pascals-triangle](https://github.com/Moealfadil/A2SV/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Moealfadil/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/Moealfadil/A2SV/tree/master/0978-longest-turbulent-subarray) |
 ## Design
@@ -532,5 +536,6 @@ A collection of coding problem solutions from various competitive programming pl
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
