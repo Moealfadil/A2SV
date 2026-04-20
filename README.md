@@ -87,6 +87,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Moealfadil/A2SV/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Moealfadil/A2SV/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [3174-clear-digits](https://github.com/Moealfadil/A2SV/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [2073-time-needed-to-buy-tickets](https://github.com/Moealfadil/A2SV/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Moealfadil/A2SV/tree/master/2679-sum-in-a-matrix) |
+| [3174-clear-digits](https://github.com/Moealfadil/A2SV/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [1598-crawler-log-folder](https://github.com/Moealfadil/A2SV/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Moealfadil/A2SV/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Moealfadil/A2SV/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Moealfadil/A2SV/tree/master/3174-clear-digits) |
 ## Data Stream
 |  |
 | ------- |
