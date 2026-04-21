@@ -57,6 +57,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0014-longest-common-prefix](https://github.com/Moealfadil/A2SV/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Moealfadil/A2SV/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Moealfadil/A2SV/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Moealfadil/A2SV/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Moealfadil/A2SV/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
@@ -507,6 +508,7 @@ A collection of coding problem solutions from various competitive programming pl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Moealfadil/A2SV/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
