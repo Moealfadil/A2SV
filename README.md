@@ -261,6 +261,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Moealfadil/A2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -550,4 +551,8 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
