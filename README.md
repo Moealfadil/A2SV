@@ -158,6 +158,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/Moealfadil/A2SV/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/Moealfadil/A2SV/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Moealfadil/A2SV/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Moealfadil/A2SV/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Moealfadil/A2SV/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/Moealfadil/A2SV/tree/master/0962-maximum-width-ramp) |
@@ -269,6 +270,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Moealfadil/A2SV/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moealfadil/A2SV/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Moealfadil/A2SV/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
