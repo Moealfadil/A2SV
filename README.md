@@ -155,6 +155,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0724-find-pivot-index](https://github.com/Moealfadil/A2SV/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Moealfadil/A2SV/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Moealfadil/A2SV/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0789-escape-the-ghosts](https://github.com/Moealfadil/A2SV/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Moealfadil/A2SV/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Moealfadil/A2SV/tree/master/0832-flipping-an-image) |
@@ -274,6 +275,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Moealfadil/A2SV/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Moealfadil/A2SV/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moealfadil/A2SV/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Moealfadil/A2SV/tree/master/2089-find-target-indices-after-sorting-array) |
