@@ -140,6 +140,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Moealfadil/A2SV/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
@@ -274,6 +275,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/Moealfadil/A2SV/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
@@ -303,6 +305,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Moealfadil/A2SV/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
