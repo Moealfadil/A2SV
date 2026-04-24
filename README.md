@@ -142,6 +142,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0414-third-maximum-number](https://github.com/Moealfadil/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Moealfadil/A2SV/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
@@ -273,6 +274,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moealfadil/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Moealfadil/A2SV/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moealfadil/A2SV/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -304,6 +306,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0442-find-all-duplicates-in-an-array](https://github.com/Moealfadil/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Moealfadil/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Moealfadil/A2SV/tree/master/0506-relative-ranks) |
 | [0853-car-fleet](https://github.com/Moealfadil/A2SV/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Moealfadil/A2SV/tree/master/0881-boats-to-save-people) |
@@ -364,6 +367,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Moealfadil/A2SV/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Moealfadil/A2SV/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Moealfadil/A2SV/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Moealfadil/A2SV/tree/master/0680-valid-palindrome-ii) |
