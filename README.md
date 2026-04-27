@@ -35,6 +35,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0326-power-of-three](https://github.com/Moealfadil/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Moealfadil/A2SV/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Moealfadil/A2SV/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
@@ -279,6 +280,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Moealfadil/A2SV/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Moealfadil/A2SV/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/Moealfadil/A2SV/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
