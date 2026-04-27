@@ -155,6 +155,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0661-image-smoother](https://github.com/Moealfadil/A2SV/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Moealfadil/A2SV/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Moealfadil/A2SV/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Moealfadil/A2SV/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Moealfadil/A2SV/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moealfadil/A2SV/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -281,6 +282,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0475-heaters](https://github.com/Moealfadil/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Moealfadil/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Moealfadil/A2SV/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/Moealfadil/A2SV/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moealfadil/A2SV/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Moealfadil/A2SV/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Moealfadil/A2SV/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -498,6 +500,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0303-range-sum-query-immutable](https://github.com/Moealfadil/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Moealfadil/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0641-design-circular-deque](https://github.com/Moealfadil/A2SV/tree/master/0641-design-circular-deque) |
+| [0729-my-calendar-i](https://github.com/Moealfadil/A2SV/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/Moealfadil/A2SV/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Moealfadil/A2SV/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Moealfadil/A2SV/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -564,6 +567,7 @@ A collection of coding problem solutions from various competitive programming pl
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Moealfadil/A2SV/tree/master/0729-my-calendar-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Moealfadil/A2SV/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -584,4 +588,8 @@ A collection of coding problem solutions from various competitive programming pl
 | ------- |
 | [0278-first-bad-version](https://github.com/Moealfadil/A2SV/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Moealfadil/A2SV/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Moealfadil/A2SV/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
