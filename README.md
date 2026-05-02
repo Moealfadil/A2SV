@@ -66,6 +66,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0242-valid-anagram](https://github.com/Moealfadil/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Moealfadil/A2SV/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Moealfadil/A2SV/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Moealfadil/A2SV/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Moealfadil/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Moealfadil/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -407,6 +408,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0241-different-ways-to-add-parentheses](https://github.com/Moealfadil/A2SV/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Moealfadil/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Moealfadil/A2SV/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Moealfadil/A2SV/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Moealfadil/A2SV/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moealfadil/A2SV/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moealfadil/A2SV/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -543,6 +545,7 @@ A collection of coding problem solutions from various competitive programming pl
 | [0145-binary-tree-postorder-traversal](https://github.com/Moealfadil/A2SV/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Moealfadil/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Moealfadil/A2SV/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Moealfadil/A2SV/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Moealfadil/A2SV/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Moealfadil/A2SV/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Moealfadil/A2SV/tree/master/0735-asteroid-collision) |
